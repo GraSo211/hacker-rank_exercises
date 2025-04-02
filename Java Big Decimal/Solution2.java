@@ -45,7 +45,7 @@ Sample Output
 import java.math.BigDecimal;
 import java.util.*;
 
-public class Solution {
+public class Solution2 {
 
     public static void main(String[] args) {
         // Input
