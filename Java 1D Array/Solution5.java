@@ -36,6 +36,7 @@ public class Solution {
         if (i < 0 || game[i] == 1 || visited[i]) return false;
 
         visited[i] = true;
+//prueba
 
         return canWinFrom(i + leap, leap, game, visited) ||
                canWinFrom(i + 1, leap, game, visited) ||
